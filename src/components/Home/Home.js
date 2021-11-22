@@ -191,6 +191,8 @@ const Home = () => {
                         <label className="label">Total Liabilities and Equity</label>
                         <input type="text" className="input" id="total_fixed_assets" value={cash + accRec + accRecLDA + inv + tempInv + preExp + lti + land + build + pae + faf} />
                     </div>
+
+                    <p>Developed by : 1) VAMSI PAVAN KUMAR (CSE/19010/437) 2) VINEEL SAI (CSE/19071/498)</p>
                 </div>
             </div>
         </div>
